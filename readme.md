@@ -12,7 +12,7 @@
 
 ### Technical Explanation:
 
-1. Q-Learning TicTacToe Implementation  -- [QLearningTicTacToe.py](LINK)
+1. Q-Learning TicTacToe Implementation  -- [QLearningTicTacToe.py](https://github.com/harshp30/DeepQLearningTicTacToe/blob/main/src/QLearningTicTacToe.py)
 
     *What is Reinforcement Learning?*
 
@@ -79,7 +79,7 @@
     [![Q-Learning TicTacToe Video Demo](https://img.youtube.com/vi/501jwEofMY4/maxresdefault.jpg)](https://www.youtube.com/watch?v=501jwEofMY4&ab)
     
 
-2. Deep Q-Learning TicTacToe Implementation  -- [DeepQLearningTicTacToe.py](LINK)
+2. Deep Q-Learning TicTacToe Implementation  -- [DeepQLearningTicTacToe.py](https://github.com/harshp30/DeepQLearningTicTacToe/blob/main/src/DeepQLearningTicTacToe.py)
 
      *What is Deep Q-Learning?*
 
